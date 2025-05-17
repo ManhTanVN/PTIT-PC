@@ -1,0 +1,4 @@
+﻿  dequy_a_luy_thua_b_mod_n.cpp
+D:\PTIT\Môn học\C Tin hoc co so 2\dequy_a_luy_thua_b_mod_n\dequy_a_luy_thua_b_mod_n.cpp(12,19): warning C4305: 'initializing': truncation from '__int64' to 'int'
+D:\PTIT\Môn học\C Tin hoc co so 2\dequy_a_luy_thua_b_mod_n\dequy_a_luy_thua_b_mod_n.cpp(12,19): warning C4309: 'initializing': truncation of constant value
+  dequy_a_luy_thua_b_mod_n.vcxproj -> D:\PTIT\Môn học\C Tin hoc co so 2\dequy_a_luy_thua_b_mod_n\x64\Debug\dequy_a_luy_thua_b_mod_n.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PTIT\\M\u00F4n h\u1ECDc\\C Tin hoc co so 2\\banDenChoiNha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A243C898-94FF-48A4-BD68-532B489367DF}|banDenChoiNha.vcxproj|D:\\PTIT\\M\u00F4n h\u1ECDc\\C Tin hoc co so 2\\banDenChoiNha\\banDenChoiNha.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A243C898-94FF-48A4-BD68-532B489367DF}|banDenChoiNha.vcxproj|solutionrelative:banDenChoiNha.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "banDenChoiNha.cpp",
+              "DocumentMoniker": "D:\\PTIT\\M\u00F4n h\u1ECDc\\C Tin hoc co so 2\\banDenChoiNha\\banDenChoiNha.cpp",
+              "RelativeDocumentMoniker": "banDenChoiNha.cpp",
+              "ToolTip": "D:\\PTIT\\M\u00F4n h\u1ECDc\\C Tin hoc co so 2\\banDenChoiNha\\banDenChoiNha.cpp",
+              "RelativeToolTip": "banDenChoiNha.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T07:45:30.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

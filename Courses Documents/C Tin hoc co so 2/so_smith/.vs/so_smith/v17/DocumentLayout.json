@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PTIT\\M\u00F4n h\u1ECDc\\C Tin hoc co so 2\\so_smith\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA55A8A0-DDAC-4904-BD6B-E9C308718CD2}|so_smith.vcxproj|D:\\PTIT\\M\u00F4n h\u1ECDc\\C Tin hoc co so 2\\so_smith\\so_smith.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA55A8A0-DDAC-4904-BD6B-E9C308718CD2}|so_smith.vcxproj|solutionrelative:so_smith.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "so_smith.cpp",
+              "DocumentMoniker": "D:\\PTIT\\M\u00F4n h\u1ECDc\\C Tin hoc co so 2\\so_smith\\so_smith.cpp",
+              "RelativeDocumentMoniker": "so_smith.cpp",
+              "ToolTip": "D:\\PTIT\\M\u00F4n h\u1ECDc\\C Tin hoc co so 2\\so_smith\\so_smith.cpp",
+              "RelativeToolTip": "so_smith.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-30T10:57:31.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

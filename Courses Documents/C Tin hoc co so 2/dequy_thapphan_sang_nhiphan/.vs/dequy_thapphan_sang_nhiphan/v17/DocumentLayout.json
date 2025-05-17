@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PTIT\\M\u00F4n h\u1ECDc\\C Tin hoc co so 2\\dequy_thapphan_sang_nhiphan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54FEDFC7-5CA9-4C16-9B67-F0764880F72E}|dequy_thapphan_sang_nhiphan.vcxproj|D:\\PTIT\\M\u00F4n h\u1ECDc\\C Tin hoc co so 2\\dequy_thapphan_sang_nhiphan\\dequy_thapphan_sang_nhiphan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54FEDFC7-5CA9-4C16-9B67-F0764880F72E}|dequy_thapphan_sang_nhiphan.vcxproj|solutionrelative:dequy_thapphan_sang_nhiphan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dequy_thapphan_sang_nhiphan.cpp",
+              "DocumentMoniker": "D:\\PTIT\\M\u00F4n h\u1ECDc\\C Tin hoc co so 2\\dequy_thapphan_sang_nhiphan\\dequy_thapphan_sang_nhiphan.cpp",
+              "RelativeDocumentMoniker": "dequy_thapphan_sang_nhiphan.cpp",
+              "ToolTip": "D:\\PTIT\\M\u00F4n h\u1ECDc\\C Tin hoc co so 2\\dequy_thapphan_sang_nhiphan\\dequy_thapphan_sang_nhiphan.cpp",
+              "RelativeToolTip": "dequy_thapphan_sang_nhiphan.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T05:49:10.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
