@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "thuasonguyento2", "thuasonguyento2.vcxproj", "{74A84203-4E36-4898-AA5D-DED1588D6268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74A84203-4E36-4898-AA5D-DED1588D6268}.Debug|x64.ActiveCfg = Debug|x64
+		{74A84203-4E36-4898-AA5D-DED1588D6268}.Debug|x64.Build.0 = Debug|x64
+		{74A84203-4E36-4898-AA5D-DED1588D6268}.Debug|x86.ActiveCfg = Debug|Win32
+		{74A84203-4E36-4898-AA5D-DED1588D6268}.Debug|x86.Build.0 = Debug|Win32
+		{74A84203-4E36-4898-AA5D-DED1588D6268}.Release|x64.ActiveCfg = Release|x64
+		{74A84203-4E36-4898-AA5D-DED1588D6268}.Release|x64.Build.0 = Release|x64
+		{74A84203-4E36-4898-AA5D-DED1588D6268}.Release|x86.ActiveCfg = Release|Win32
+		{74A84203-4E36-4898-AA5D-DED1588D6268}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1646E6F-C9DE-4778-A4DC-5F5673413B3E}
+	EndGlobalSection
+EndGlobal

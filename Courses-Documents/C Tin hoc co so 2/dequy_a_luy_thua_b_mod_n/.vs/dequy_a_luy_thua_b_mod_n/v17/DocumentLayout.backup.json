@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PTIT\\M\u00F4n h\u1ECDc\\C Tin hoc co so 2\\dequy_a_luy_thua_b_mod_n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F064FEBF-C123-4F15-8757-88DFE8EFD6B4}|dequy_a_luy_thua_b_mod_n.vcxproj|D:\\PTIT\\M\u00F4n h\u1ECDc\\C Tin hoc co so 2\\dequy_a_luy_thua_b_mod_n\\dequy_a_luy_thua_b_mod_n.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F064FEBF-C123-4F15-8757-88DFE8EFD6B4}|dequy_a_luy_thua_b_mod_n.vcxproj|solutionrelative:dequy_a_luy_thua_b_mod_n.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dequy_a_luy_thua_b_mod_n.cpp",
+              "DocumentMoniker": "D:\\PTIT\\M\u00F4n h\u1ECDc\\C Tin hoc co so 2\\dequy_a_luy_thua_b_mod_n\\dequy_a_luy_thua_b_mod_n.cpp",
+              "RelativeDocumentMoniker": "dequy_a_luy_thua_b_mod_n.cpp",
+              "ToolTip": "D:\\PTIT\\M\u00F4n h\u1ECDc\\C Tin hoc co so 2\\dequy_a_luy_thua_b_mod_n\\dequy_a_luy_thua_b_mod_n.cpp",
+              "RelativeToolTip": "dequy_a_luy_thua_b_mod_n.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T05:30:15.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

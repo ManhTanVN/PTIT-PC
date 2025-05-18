@@ -1,9 +1,0 @@
-﻿  dequy_find_item_nhi_phan.cpp
-D:\PTIT\Môn học\C Tin hoc co so 2\dequy_find_item_nhi_phan\dequy_find_item_nhi_phan.cpp(35,14): warning C4473: 'printf_s' : not enough arguments passed for format string
-      D:\PTIT\Môn học\C Tin hoc co so 2\dequy_find_item_nhi_phan\dequy_find_item_nhi_phan.cpp(35,14):
-      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
-      D:\PTIT\Môn học\C Tin hoc co so 2\dequy_find_item_nhi_phan\dequy_find_item_nhi_phan.cpp(35,14):
-      the missing variadic argument 2 is required by format string '%d'
-  
-D:\PTIT\Môn học\C Tin hoc co so 2\dequy_find_item_nhi_phan\dequy_find_item_nhi_phan.cpp(22,1): warning C4715: 'find': not all control paths return a value
-  dequy_find_item_nhi_phan.vcxproj -> D:\PTIT\Môn học\C Tin hoc co so 2\dequy_find_item_nhi_phan\x64\Debug\dequy_find_item_nhi_phan.exe

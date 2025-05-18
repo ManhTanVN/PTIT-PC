@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-topwebsites2",
+      "appliesTo": "Practices/hash-table/topwebsites2.cpp",
+      "type": "launch"
+    }
+  ]
+}
