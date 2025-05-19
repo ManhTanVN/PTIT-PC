@@ -42,9 +42,8 @@ void add_website(HashTable *table, const char *name) {
     Node* current = table->buckets[index];
 
     // Update count nếu tén website đã tồn tại
-    while (current != NULL)
-    {
-        if (strcmp(current->name,name) == 0) {
+    while (current != NULL) {
+        if (strcmp(current->name, name) == 0) {
             current->count++;
             return;
         }
@@ -99,7 +98,7 @@ int cmp(const void *a, const void *b) {
 
 
 int main() {
-    FILE *f1 = fopen("d:/PTIT2/Courses-Documents/Tin-hoc-co-so-2-new/Practices/hash-table/log.txt", "r");  // Đường dẫn tuyệt đối
+    FILE *f1 = fopen("log.txt", "r");  // Đường dẫn tuyệt đối
 
     if(!f1) {
         printf("Can not find input files! \n");
@@ -107,7 +106,7 @@ int main() {
     }
     FILE *f2 = fopen("topWebsites.txt", "w");
     if(!f2) {
-        printf("Can not find output files! \n");
+        perror("Error creating output file");
         fclose(f1);
         return 1;
     }
@@ -117,13 +116,27 @@ int main() {
     // Duyệt qua từng dòng của file input
     while (fgets(line, 1024, f1)) {
         if (line[0] == '\n' || isspace(line[0])) continue; //bỏ qua dòng không hợp lệ
-
+        // int idx = 0;
+        char* website = NULL;
         char* token = strtok(line, " ");
-        if (token) token = strtok(NULL, " ");
-        if (token) token = strtok(NULL, " ");
+        if (token != NULL) token = strtok(NULL, " ");
+        if (token != NULL) website = strtok(NULL, " ");
+        // while(token != NULL) {
+        //     idx++;
+        //     if (idx == 3) {
+        //         website = token;
+        //         break;
+        //     }
+        //     token = strtok(NULL, " ");
+        // }
+        if (website) {
+            // Remove '\n'
+            website[strcspn(website, "\n")] = '\0';
 
-        // thêm tên website vào table
-        if (token) add_website(table, token);
+            if (website == NULL || strlen(website) == 0 || isspace(website[0])) continue; // Bo qua dong khong hop le
+
+            add_website(table, website); // Update table
+        }
     }
 
     // In thông tin website ra mảng
