@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PTIT2\\Courses-Documents\\Microsoft-Visual-Studio\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PTIT2\\Courses-Documents\\Microsoft-Visual-Studio\\hash-table\\hash-table.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E263A-BD53-45EF-AD9E-2672A0988330}|test.pyproj|D:\\PTIT2\\Courses-Documents\\Microsoft-Visual-Studio\\test\\test.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B67E263A-BD53-45EF-AD9E-2672A0988330}|test.pyproj|solutionrelative:test.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hash-table.cpp",
+              "DocumentMoniker": "D:\\PTIT2\\Courses-Documents\\Microsoft-Visual-Studio\\hash-table\\hash-table.cpp",
+              "RelativeDocumentMoniker": "..\\hash-table\\hash-table.cpp",
+              "ToolTip": "D:\\PTIT2\\Courses-Documents\\Microsoft-Visual-Studio\\hash-table\\hash-table.cpp",
+              "RelativeToolTip": "..\\hash-table\\hash-table.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T15:34:22.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.py",
+              "DocumentMoniker": "D:\\PTIT2\\Courses-Documents\\Microsoft-Visual-Studio\\test\\test.py",
+              "RelativeDocumentMoniker": "test.py",
+              "ToolTip": "D:\\PTIT2\\Courses-Documents\\Microsoft-Visual-Studio\\test\\test.py",
+              "RelativeToolTip": "test.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-19T14:26:08.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
