@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PTIT2\\Courses-Documents\\Microsoft-Visual-Studio\\hash-table\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{468382EB-9021-4481-B209-48E46BE84068}|hash-table.vcxproj|D:\\PTIT2\\Courses-Documents\\Microsoft-Visual-Studio\\hash-table\\hash-table.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{468382EB-9021-4481-B209-48E46BE84068}|hash-table.vcxproj|solutionrelative:hash-table.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hash-table.cpp",
+              "DocumentMoniker": "D:\\PTIT2\\Courses-Documents\\Microsoft-Visual-Studio\\hash-table\\hash-table.cpp",
+              "RelativeDocumentMoniker": "hash-table.cpp",
+              "ToolTip": "D:\\PTIT2\\Courses-Documents\\Microsoft-Visual-Studio\\hash-table\\hash-table.cpp",
+              "RelativeToolTip": "hash-table.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-19T08:59:48.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

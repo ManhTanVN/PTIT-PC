@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-topwebsites2",
+      "appliesTo": "Practices/hash-table/topwebsites2.cpp",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Tin-hoc-co-so-2-new",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
