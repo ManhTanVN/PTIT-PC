@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{95F0C4AA-DB6A-47B2-93F0-56199D340CE7}|chuan-hoa-ten.vcxproj|D:\\PTIT2\\Courses-Documents\\Microsoft-Visual-Studio\\chuan-hoa-ten\\chuan-hoa-ten\\chuan-hoa-ten.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{95F0C4AA-DB6A-47B2-93F0-56199D340CE7}|chuan-hoa-ten.vcxproj|solutionrelative:chuan-hoa-ten.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F0C4AA-DB6A-47B2-93F0-56199D340CE7}|chuan-hoa-ten.vcxproj|D:\\PTIT2\\Courses-Documents\\Microsoft-Visual-Studio\\chuan-hoa-ten\\chuan-hoa-ten\\name.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95F0C4AA-DB6A-47B2-93F0-56199D340CE7}|chuan-hoa-ten.vcxproj|solutionrelative:name.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "name.txt",
+              "DocumentMoniker": "D:\\PTIT2\\Courses-Documents\\Microsoft-Visual-Studio\\chuan-hoa-ten\\chuan-hoa-ten\\name.txt",
+              "RelativeDocumentMoniker": "name.txt",
+              "ToolTip": "D:\\PTIT2\\Courses-Documents\\Microsoft-Visual-Studio\\chuan-hoa-ten\\chuan-hoa-ten\\name.txt",
+              "RelativeToolTip": "name.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-22T02:51:38.76Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "chuan-hoa-ten.cpp",
               "ToolTip": "D:\\PTIT2\\Courses-Documents\\Microsoft-Visual-Studio\\chuan-hoa-ten\\chuan-hoa-ten\\chuan-hoa-ten.cpp",
               "RelativeToolTip": "chuan-hoa-ten.cpp",
-              "ViewState": "AgIAABQAAAAAAAAAAAAYwD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-21T06:16:22.078Z",
               "EditorCaption": ""
