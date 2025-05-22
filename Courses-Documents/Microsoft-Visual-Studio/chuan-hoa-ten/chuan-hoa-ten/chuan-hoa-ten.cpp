@@ -108,14 +108,16 @@ int main()
     char line[1024];
     int n = 0;
     while (fgets(line, sizeof(line), f)) {
+        if (line[strlen(line) - 1] == '\n')
+            line[strlen(line) - 1] = '\0';
         name_corrector(line);
         arr[n++] = custom_strdup(line);
     }
 
     qsort(arr, n, sizeof(char*), cmp);
     for (int i = 0; i < n; i++) {
-        printf("%s", arr[i]);
-        fprintf(f2, "%s", arr[i]);
+        printf("%s\n", arr[i]);
+        fprintf(f2, "%s\n", arr[i]);
         free(arr[i]);
     }
     fclose(f);

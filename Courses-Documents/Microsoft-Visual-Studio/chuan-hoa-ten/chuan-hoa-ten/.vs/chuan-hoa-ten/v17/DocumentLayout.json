@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -40,7 +44,7 @@
               "RelativeDocumentMoniker": "chuan-hoa-ten.cpp",
               "ToolTip": "D:\\PTIT2\\Courses-Documents\\Microsoft-Visual-Studio\\chuan-hoa-ten\\chuan-hoa-ten\\chuan-hoa-ten.cpp",
               "RelativeToolTip": "chuan-hoa-ten.cpp",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAGIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-21T06:16:22.078Z",
               "EditorCaption": ""
